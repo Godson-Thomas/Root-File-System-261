@@ -1,3 +1,6 @@
+
+----------
+
 ## _rootfs.ubifs_ >> file system directories
 
 * _ubi_reader_
@@ -38,3 +41,5 @@ pip install python-lzo
 ```
 ubireader_extract_files /home/gt/rootfs.ubifs
 ```
+
+------
