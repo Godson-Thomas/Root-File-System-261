@@ -13,12 +13,12 @@ ubireader_extract_files /home/gt/rootfs.ubifs
 ```
 
 **Error**:<br><br>
-<img src="https://github.com/Godson-Thomas/dccp/blob/master/e_lzo.png" width="700">  <br><br>
+<img src="https://github.com/Godson-Thomas/Root-File-System-261/blob/master/e_lzo.png" width="700">  <br><br>
 
 
 **Solution**
 
-* Download the lzo module. [_click here_]()
+* Download the lzo module. [_click here_](https://github.com/Godson-Thomas/Root-File-System-261/raw/master/lzo-2.10.tar.gz)
 * Extract the file and enter into _lzo-2.10_ directory using the terminal
 * Issue the following commands.
 
