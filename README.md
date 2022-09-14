@@ -3,8 +3,13 @@
 
 ## _rootfs.ubifs_ >> file system directories
 
+* _ubidump_ is preferred
 
+```
+eg. ubidump -s <path/of/file/system/tree> -p rootfs.ubifs
 
+ubidump -s . -p rootfs.ubifs
+```
 
 
 
