@@ -63,7 +63,7 @@ ubireader_extract_files /home/gt/rootfs.ubifs
 ## file system directories >> _rootfs.ubifs_
 
 ```
-mkfs.ubifs -m 2048 -e 124KiB -c 2047 -r /media/GT/DIsk-3/RootFS/ubifs-root rootfs.ubifs
+sudo mkfs.ubifs -m 2048 -e 124KiB -c 2047 -r /media/GT/DIsk-3/RootFS/ubifs-root rootfs.ubifs
 ```
 
 * - -m : min io size
