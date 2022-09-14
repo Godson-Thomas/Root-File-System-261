@@ -3,17 +3,7 @@
 
 ## _rootfs.ubifs_ >> file system directories
 
-* ### _binwalk_ (Recommended)
 
-```
-sudo apt install binwalk
-```
-
-```
-binwalk -e rootfs.ubifs
-```
-```
-```
 
 
 
